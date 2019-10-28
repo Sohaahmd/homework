@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile>
+   <person gender="female">
+      <firstName>Dr.Sherley</firstName>
+      <lastName>Abraham</lastName>
+   </person>
+   <deatils>
+      <MobileNumber>+85198850994</MobileNumber>
+      <EmailID>drAbraham@yahoo.com</EmailID>
+      <gender>female</gender>
+      <DateOfBirth>23\7\1992</DateOfBirth>
+      <Experience>3 years in World Medical Company</Experience>
+      <EmergancyContact>+439329901</EmergancyContact>
+      <Location>Hong Kong, China</Location>
+   </deatils>
+</profile>
+
